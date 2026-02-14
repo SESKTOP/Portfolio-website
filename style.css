@@ -107,6 +107,9 @@ body {
   padding-top: 30px;
   text-align: center;
   border-top: 2px solid #3a3a3a;
+  text-decoration: none;
+  display: flex;
+  justify-content:center ;
 }
 
 .iconimg {
@@ -397,3 +400,4 @@ nav a:hover {
     grid-template-columns: 1fr;
   }
 }
+
